@@ -1,0 +1,14 @@
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\bin\Debug\net6.0\dotnetproject1.exe
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\bin\Debug\net6.0\dotnetproject1.deps.json
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\bin\Debug\net6.0\dotnetproject1.runtimeconfig.json
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\bin\Debug\net6.0\dotnetproject1.dll
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\bin\Debug\net6.0\dotnetproject1.pdb
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.AssemblyInfoInputs.cache
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.AssemblyInfo.cs
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.csproj.CoreCompileInputs.cache
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.dll
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\refint\dotnetproject1.dll
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.pdb
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\dotnetproject1.genruntimeconfig.cache
+C:\Code\dotnetProject1\dotnetproject1\dotnetproject1\obj\Debug\net6.0\ref\dotnetproject1.dll
